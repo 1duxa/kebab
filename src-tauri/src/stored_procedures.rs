@@ -1,3 +1,4 @@
+// ignore)
 pub mod stored_procedures {
     use crate::sqlclient::sqlclient::sql_exec_non_query;
 
