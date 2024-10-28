@@ -1,0 +1,28 @@
+.header-wrap{
+    display: flex;
+    height: 37px;
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    width: 100%;
+}
+
+.header-item{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: rgb(233, 66, 66);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    transition: 0.3s;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.header-item:hover{
+    background-color: rgb(255, 91, 91);
+}
+a, button  {
+    all: unset;
+}
