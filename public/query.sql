@@ -1,3 +1,5 @@
+-- Only Part of DB
+
 CREATE TABLE orders (
     order_id SERIAL PRIMARY KEY,
     user_id UUID REFERENCES users(user_id),
