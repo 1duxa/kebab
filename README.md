@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-# kebab
+# Kebab store
 =======
 # Tauri + React + Typescript
